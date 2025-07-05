@@ -1,0 +1,12 @@
+{
+  "name": "Example Add-on",
+  "version": "1.0.0",
+  "slug": "example-addon",
+  "description": "A minimal example add-on.",
+  "startup": "services",
+  "boot": "auto",
+  "arch": ["amd64", "armv7", "aarch64"],
+  "options": {},
+  "schema": {},
+  "image": "ghcr.io/bramboe/octo-example-addon-{arch}"
+} 
