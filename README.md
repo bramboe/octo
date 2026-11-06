@@ -92,6 +92,10 @@ If you encounter issues:
 
 ## Support
 
+If this project is useful to you, consider sponsoring my work 💙
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/bramboe) [![Donate via bunq.me](https://img.shields.io/badge/Donate-bunq.me-2E9AD0)](https://bunq.me/bramboe)
+
 For help with setup, or for sharing feedback please join the Discord server: https://discord.gg/Hf3kpFjbZs
 
 This add-on is based on the work at [richardhopton/smartbed-mqtt](https://github.com/richardhopton/smartbed-mqtt)
